@@ -1,2 +1,2 @@
 # OwnCloud
-My Owncloud documentation source files.
+The ownCloud Getting Started Help Guide
